@@ -4,7 +4,7 @@ This repository follows the Git Flow branching model for managing and organizing
 
 ## Things Procticed:
 
-1. [Branches in Git Flow](#branches-in-git-flow)
+1. [Branches in Git Flow]
 2. [Basic Workflow](#basic-workflow)
 3. [Starting a Feature](#starting-a-feature)
 4. [Finishing a Feature](#finishing-a-feature)
