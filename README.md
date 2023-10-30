@@ -4,13 +4,13 @@ This repository follows the Git Flow branching model for managing and organizing
 
 ## Things Procticed:
 
-1. [Branches in Git Flow]
-2. [Basic Workflow](#basic-workflow)
-3. [Starting a Feature](#starting-a-feature)
-4. [Finishing a Feature](#finishing-a-feature)
-5. [Starting a Release](#starting-a-release)
-6. [Finishing a Release](#finishing-a-release)
-7. [Hotfixes](#hotfixes)
+1. Branches in Git Flow
+2. Basic Workflow
+3. Starting a Feature
+4. Finishing a Feature
+5. Starting a Release
+6. Finishing a Release
+7. Hotfixes
 
 ## Branches in Git Flow
 
